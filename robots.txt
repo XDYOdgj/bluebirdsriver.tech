@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bluebirdsriver.tech/sitemap.xml
